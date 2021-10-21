@@ -11,4 +11,4 @@
   - [KNN - introduction](https://www.youtube.com/watch?v=gJK4fmCvcWY);
   - [KNN - example](https://www.youtube.com/watch?v=zvmbB3315Ko);
   - [KNN - UFPR](https://www.inf.ufpr.br/dagoncalves/IA05.pdf);
-  
+- Implement multiples ML models available in the Scikit-learn library;
