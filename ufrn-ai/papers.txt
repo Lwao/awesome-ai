@@ -1,0 +1,19 @@
+A Test Collection for Research on Drepression and Language Use
+An Explainable Approach Based on Emotion and Sentiment Features for Detecting People with Mental Disorders on Social Networks
+Automatic detection of depression symptoms in twitter using multimodal analysis
+Evaluating and improving lexical resources for detecting signs of depression in text
+Mechanisms of Memory Disruption in Depression
+Predicting Symptoms of Depression and Anxiety Using Smartphone and Wearable Data
+Quantifying Mental Health Signals in Twitter
+The relationship between linguistic expression in blog content and symptoms of depression, anxiety, and suicidal thoughts - A longitudinal study 
+Crowdsourcing a Word–Emotion Association Lexicon
+Depressive Moods of Users Portrayed in Twitter
+Detecting the magnitude of depression in Twitter users using sentiment analysis
+Forecasting the onset and course of mental illness with Twitter data
+Perception Differences between the Depressed and Non-Depressed Users in Twitter
+SenticNet 3 - A Common and Common-Sense Knowledge Base for Cognition-Driven Sentiment Analysis
+
+
+
+
+
